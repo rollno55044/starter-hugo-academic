@@ -1,5 +1,5 @@
 ---
-role: Product Manager
+role: ""
 avatar_filename: profile-pic.jpg
 bio: short bio
 interests:
@@ -16,9 +16,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aditya-raj-pm/
-organizations:
-  - name: IPU
-    url: http://www.ipu.ac.in/
+organizations: []
 education:
   courses:
     - course: B.Tech in Computer Science
