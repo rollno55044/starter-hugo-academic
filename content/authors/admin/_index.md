@@ -1,11 +1,11 @@
 ---
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Product Manager
+avatar_filename: profile-pic.jpg
+bio: short bio
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Product Management
+  - International Relations
+  - Fintech Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,8 +17,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/aditya-raj-pm/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IPU
+    url: http://www.ipu.ac.in/
 education:
   courses:
     - course: B.Tech in Computer Science
@@ -32,12 +32,13 @@ education:
       year: 2022
 superuser: true
 highlight_name: true
-title: Nelson Bighetti
+title: Aditya Raj
 email: ""
 ---
-
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I spend my time reading, [writing](https://www.mananagarwal.in/blog) and [tweeting](https://twitter.com/manan_0308).
+
+When I am not doing the above, I can be found making music or treking in the mountain.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
