@@ -6,11 +6,11 @@ draft: false
 authors:
   - admin
   - ""
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 Wpulated your new site with some initial content to help
-  you get familiar with everything in no time.
-date: 2020-12-13T00:00:00Z
+subtitle: oooooooooooonew site with some initial content to help you get
+  familiar with everything in no time.
+date: 2020-12-13T00:00:00.000Z
 featured: false
 tags:
   - Academic
