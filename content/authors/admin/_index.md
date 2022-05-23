@@ -1,7 +1,7 @@
 ---
 role: ""
 avatar_filename: profile-pic.jpg
-bio: short bio
+bio: ""
 interests:
   - Product Management
   - International Relations
