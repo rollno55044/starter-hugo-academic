@@ -8,7 +8,7 @@ summary: ""
 draft: false
 featured: false
 tags:
-  - System Design
+  - SystemDesign
 categories:
   - System Design
 image:
