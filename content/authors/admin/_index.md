@@ -1,4 +1,5 @@
 ---
+title: Aditya Raj
 role: ""
 avatar_filename: profile-pic.jpg
 bio: ""
@@ -28,16 +29,15 @@ education:
     - course: Product Analytics 101
       institution: The Product Folks
       year: 2022
+email: ""
 superuser: true
 highlight_name: true
-title: Aditya Raj
-email: ""
 ---
 # 👋 Hi! I’m ADITYA
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Co-founder of  the [Mockpeers](http://www.mockpeers.com), it’s platforms which will make it easy for the users to participate in mock interviews. we built a very intuitive way of matching the candidates for the mock interviews and practice mock and give feedback. Before that I was product manager at Oogway, where had the opportunity to led a cross-functional team and work on a variety of innovative products, including evaluate app.
 
-I spend my time reading, [writing](https://www.mananagarwal.in/blog) and [tweeting](https://twitter.com/manan_0308).
+I spend my time reading, [writing](https://www.adityarj.com/post) and [tweeting](https://twitter.com/twitter.com/Adityarajml2).
 
 When I am not doing the above, I can be found making music or treking in the mountain.
 
