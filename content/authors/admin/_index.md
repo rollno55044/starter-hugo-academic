@@ -1,7 +1,7 @@
 ---
 title: Aditya Raj
 role: ""
-avatar_filename: profile-pic.jpg
+avatar_filename: 1656053768334.jpg
 bio: ""
 interests:
   - Product Management
