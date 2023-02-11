@@ -18,7 +18,7 @@ categories:
 image:
   filename: ""
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   alt_text: "**Caution** — Aim of these series is not to make you networking
     expert. this is just prepare you for system design"
 ---
