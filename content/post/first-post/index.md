@@ -3,14 +3,16 @@ title: Transport layer
 subtitle: This is part of series on networking for system design  caution — aim
   of these series is not to make you networking expert. this is just prepare you
   for system design
-date: 2022-01-27T10:42:25.690Z
-summary: This is part of series on networking for system design  caution — aim
-  of these series is not to make you networking expert. this is just prepare you
-  for system design
+date: 2023-02-11T11:48:05.967Z
+summary: >-
+  This is part of series on networking for system design  
+
+
+  caution — aim of these series is not to make you networking expert. this is just prepare you for system design
 draft: false
 featured: false
 tags:
-  - SystemDesign
+  - System Design
 categories:
   - System Design
 image:
