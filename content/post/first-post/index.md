@@ -4,7 +4,9 @@ subtitle: This is part of series on networking for system design  caution — ai
   of these series is not to make you networking expert. this is just prepare you
   for system design
 date: 2022-01-27T10:42:25.690Z
-summary: ""
+summary: This is part of series on networking for system design  caution — aim
+  of these series is not to make you networking expert. this is just prepare you
+  for system design
 draft: false
 featured: false
 tags:
