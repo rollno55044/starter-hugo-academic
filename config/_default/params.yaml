@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_night: coffee
+  font: native
   font_size: L
 
 # SEO
