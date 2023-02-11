@@ -1,11 +1,12 @@
 ---
 title: Paging **
-subtitle: oooooooooooonew site with some initial content to help you get
-  familiar with everything in no time.
+subtitle: ""
 date: 2020-12-13T00:00:00.000Z
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+summary: >-
+  This is part of series on networking for system design
+
+
+  Caution — aim of these series is not to make you networking expert. this is just prepare you for system design
 draft: false
 featured: false
 authors:
