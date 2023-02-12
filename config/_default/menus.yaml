@@ -10,7 +10,7 @@ main:
   - name: Blog
     url: '#posts'
     weight: 20
-  - name: Casestudies
+  - name: Case studies
     url: '#projects'
     weight: 30
   - name: Lets Connect
