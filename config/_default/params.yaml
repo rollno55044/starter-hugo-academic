@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: coffee
+  theme_night: minimal
   font: native
   font_size: m
 
@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'mockpeers'
     description: 'Blog by Aditya Raj.'
     twitter: 'Adityarajml2'
   analytics:
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Aditya Raj}'
+    notice: '© {year} Aditya Raj'
     license:
       enable: false
       allow_derivatives: false
