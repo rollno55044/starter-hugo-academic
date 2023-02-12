@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#Connect
+    link: /#Lets Connect
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/adityarajml2
@@ -23,7 +23,9 @@ social:
     link: https://www.linkedin.com/in/aditya-raj-pm/
     display:
       header: true
-organizations: []
+organizations:
+  - name: Mockpeers
+    url: www.mockpeers.com
 education:
   courses:
     - course: B.Tech in Computer Science
