@@ -10,10 +10,10 @@ main:
   - name: Blog
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Casestudies
     url: '#projects'
     weight: 30
-  - name: Contact
+  - name: Lets Connect
     url: '#contact'
     weight: 60
     
