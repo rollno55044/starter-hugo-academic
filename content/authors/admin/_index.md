@@ -23,11 +23,7 @@ social:
     link: https://www.linkedin.com/in/aditya-raj-pm/
     display:
       header: true
-organizations:
-  - name: PMI - Technical Product Management
-    url: https://www.linkedin.com/learning/certificates/5785b913fae4f6982015828861a4cdc4db6ac660ea5924826f5792f26b9247bd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BzXuHsZlPRw%2BPw%2FW9EAJBpQ%3D%3D
-  - name: IIBA - Agile Foundations
-    url: https://www.linkedin.com/learning/certificates/52b6af8c2a6824b950e299cc502044eabdf44eb644f089df45c9723625665559?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BzXuHsZlPRw%2BPw%2FW9EAJBpQ%3D%3D
+organizations: []
 education:
   courses:
     - course: B.Tech in Computer Science
