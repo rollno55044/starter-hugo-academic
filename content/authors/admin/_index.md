@@ -21,6 +21,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aditya-raj-pm/
+    display:
+      header: true
 organizations:
   - name: PMI - Technical Product Management
     url: https://www.linkedin.com/learning/certificates/5785b913fae4f6982015828861a4cdc4db6ac660ea5924826f5792f26b9247bd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BzXuHsZlPRw%2BPw%2FW9EAJBpQ%3D%3D
@@ -46,6 +48,5 @@ I spend my time reading, [writing](https://www.adityarj.com/post) and [tweeting]
 
 When I am not doing the above, I can be found making music or treking in the mountain.
 
-<iframe src="https://adityarj.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume - Aditya Raj - pm-23.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
